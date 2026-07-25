@@ -143,7 +143,55 @@ a medida que se acerque el momento de vivir de las rentas.
 - No es asesoramiento de un mediador de seguros regulado; usar como guía para
   comparar ofertas, no como recomendación de producto.
 
-## 8. Próximos pasos acordados
+## 8. Cartera de inversión (activa desde que se libere el 1.300 €/mes, ≈mayo 2027)
+
+**Glidepath por fases** (independiente del fondo de emergencia, que va aparte
+100 % líquido):
+
+| Fase | Edad aprox. | Años del plan | RV global | RF + liquidez adicional |
+|---|---|---|---|---|
+| 1. Acumulación temprana | 34-43 | 1-10 | 90 % | 10 % |
+| 2. Acumulación tardía | 43-48 | 10-15 | 85 % | 15 % |
+| 3. Preparación pre-retirada | 48-53 | 15-20 | 75 % | 25 % |
+| 4. Viviendo de las rentas | 53+ | 20+ | 60-65 % | 35-40 % (con 1-3 años de gasto en liquidez) |
+
+- Disparador para pasar a fase 3 antes de tiempo: si el patrimonio alcanza
+  ≈700.000-850.000 € (70-80 % del objetivo real ajustado por inflación),
+  aunque falten años en el calendario.
+
+**Composición de la renta variable**: núcleo global (índice tipo MSCI ACWI /
+FTSE All-World, no solo Europa/EEUU — evitar concentrar más riesgo país en
+España, donde ya está el "capital humano" de ambos). Satélite opcional
+(0-15 % de la parte de RV, no imprescindible): small caps globales o algo
+más de peso en emergentes, coherente con el riesgo alto declarado.
+
+**Criterios para elegir fondo/ETF** (sin recomendar productos ni gestoras):
+índice amplio y global, TER <0,25 %, réplica física, >500-1.000M € de
+patrimonio del fondo, domiciliado en Luxemburgo/Irlanda (UCITS) y registrado
+en CNMV, renta variable sin cobertura de divisa / renta fija con divisa
+cubierta a euros.
+
+**Vehículo preferente: fondos indexados traspasables**, no ETFs, para esta
+fase de acumulación con aportaciones mensuales — en España el traspaso entre
+fondos no tributa (diferimiento fiscal), lo que compensa el TER algo mayor
+frente a ETFs dado el horizonte de 20 años con varios rebalanceos por medio.
+Detalle fiscal fino pendiente de profundizar con `fiscalidad-optimizacion`
+antes de comprometer importes grandes. Planes de pensiones y seguros
+unit-linked/PIAS descartados como vehículo principal (iliquidez e
+incompatibilidad con "vivir de las rentas" antes de la jubilación legal, o
+costes más altos).
+
+**Mecánica**: aportación automática **mensual** (no trimestral) el mismo día
+tras cobrar nómina, el 100 % desde el primer mes sin "probar poco a poco".
+Sin market timing: la aportación se ejecuta siempre, pase lo que pase en el
+mercado.
+
+**Rebalanceo**: revisión anual (aprovechando la revisión de la aportación
++5 %/año ya prevista); rebalancear cuando un activo se desvíe >5 puntos
+porcentuales del objetivo, dirigiendo primero las aportaciones nuevas hacia
+el activo infraponderado antes de vender/traspasar.
+
+## 9. Próximos pasos acordados
 
 - [ ] Empezar a construir el fondo de emergencia (12.600 €) ya mismo:
       transferencia automática de 1.300 €/mes a una cuenta remunerada o fondo
@@ -153,9 +201,11 @@ a medida que se acerque el momento de vivir de las rentas.
       falta cobertura, contratar un seguro de vida temporal complementario.
 - [x] Decidir estrategia: Camino 2 (aportación creciente ~5 %/año) elegido
       como principal, con el Camino 1 (aportación constante) como plan B.
-- [ ] Definir la cartera de inversión concreta (fondos indexados/ETFs, reparto
-      80-90 % renta variable) y automatizar la aportación mensual inicial de
-      1.300 €/mes (una vez cubierto el fondo de emergencia).
+- [x] Definir la cartera de inversión concreta: 90 % RV global / 10 % RF vía
+      fondos indexados traspasables, glidepath por fases (sección 8).
+- [ ] Cuando se complete el fondo de emergencia (≈mayo 2027): elegir el fondo
+      indexado global concreto según los criterios de la sección 8 y
+      automatizar la aportación mensual.
 - [ ] Revisión anual: comprobar si la aportación mensual ha subido ≈5 %
       respecto al año anterior; si no, entender por qué y ajustar el plan.
 
@@ -165,4 +215,5 @@ a medida que se acerque el momento de vivir de las rentas.
 |---|---|---|---|
 | 2026-07-25 | Primer diagnóstico completo con datos reales del usuario | 0 € | Horizonte de 15 años no es realista con 1.300 €/mes; pendiente decidir plazo vs. aumento de ahorro |
 | 2026-07-25 | Comparados los 4 caminos; elegido Camino 2 (aportación creciente ~5 %/año) | 0 € | Objetivo revisado a ≈20 años (≈53 años de edad); Camino 1 queda como plan B |
+| 2026-07-25 | Plan de fondo de emergencia y análisis del seguro de vida; diseño de cartera con `ahorro-inversion` | 0 € | Cartera: 90 % RV global / 10 % RF vía fondos indexados traspasables, glidepath por fases; pendiente elegir fondo concreto cuando se libere el ahorro (≈mayo 2027) |
 | 2026-07-25 | Plan de fondo de emergencia concretado; analizado seguro de vida existente con `seguros-riesgos` | 0 € | Ingresos desglosados (2.200 €/1.200 €); pendiente confirmar capital asegurado exacto de la póliza actual |
