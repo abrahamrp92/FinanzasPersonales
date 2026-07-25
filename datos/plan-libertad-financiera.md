@@ -29,10 +29,18 @@ aportación plana o que un enfoque Coast FIRE (ver sección 5).
 1. **Fondo de emergencia — 12.600 €** (6 meses de gasto; en la parte alta del
    rango 3-6 meses por tener un bebé de 5 meses y patrimonio cero). Dedicando
    los 1.300 €/mes íntegros, se construye en **≈10 meses**.
-2. **Valorar un seguro de vida temporal** para el cónyuge no cubierto: con
-   patrimonio en cero y una hija pequeña, no hay colchón que absorba la pérdida
-   de ingresos de uno de los dos. No se recomienda mezclar seguro con ahorro
-   (evitar seguros de vida-ahorro con comisiones altas).
+2. **Seguro de vida — en revisión.** Ya existe una póliza privada que cubre a
+   los 3 (33 €/trimestre, 132 €/año, ≈11 €/mes) — pero con esa prima es muy
+   probable que el capital asegurado sea bajo. Pendiente confirmar capital
+   exacto (ver detalle más abajo). Capital orientativo recomendado por
+   reemplazo de ingresos (sin deuda que cubrir, con pensión de viudedad/
+   orfandad de la Seguridad Social de por medio, horizonte puente 10-15 años):
+   - Cónyuge 2.200 €/mes: **120.000-180.000 €**
+   - Cónyuge 1.200 €/mes: **65.000-100.000 €**
+   Si el capital actual está muy por debajo, complementar con un seguro de
+   vida temporal (no vida-ahorro) por la diferencia; la prima adicional
+   esperada es pequeña (orden de 15-30 €/mes) y debe tratarse como gasto fijo
+   del hogar, no descontarse de los 1.300 €/mes de ahorro/inversión.
 3. Sin deuda que amortizar ni vehículos fiscales evaluados aún: siguiente paso
    natural tras el fondo de emergencia es empezar a invertir.
 
@@ -108,10 +116,41 @@ a medida que se acerque el momento de vivir de las rentas.
    dependo de seguir ahorrando para este objetivo". Queda como opción a
    reconsiderar si en el futuro prima más la flexibilidad que la velocidad.
 
-## 6. Próximos pasos acordados
+## 7. Seguro de vida — detalle del análisis
 
-- [ ] Empezar a construir el fondo de emergencia (12.600 €) ya mismo.
-- [ ] Valorar seguro de vida temporal para ambos cónyuges.
+- Póliza actual: 33 €/trimestre (132 €/año) para los 3 miembros de la
+  familia. Con esa prima es muy probable que el capital asegurado por persona
+  sea bajo (pólizas de ese precio suelen rondar 3.000-30.000 € por persona, o
+  ser un producto combinado con poca cobertura real de fallecimiento) —
+  **pendiente de confirmar el capital exacto** revisando las condiciones
+  particulares: capital por fallecimiento de cada uno, si incluye invalidez,
+  periodo de carencia y exclusiones.
+- Capital de vida orientativo recomendado (método de reemplazo de ingresos;
+  sin deuda que cubrir; con pensión de viudedad/orfandad de la Seguridad
+  Social de por medio, que reduce la necesidad ≈40-55 %; horizonte puente de
+  10-15 años hasta tener patrimonio propio relevante):
+  - Cónyuge 2.200 €/mes: **120.000-180.000 €**
+  - Cónyuge 1.200 €/mes: **65.000-100.000 €**
+- Si el capital actual está muy por debajo (escenario más probable),
+  complementar con un **seguro de vida temporal renovable** (sin componente
+  de ahorro) por la diferencia, priorizando primero al cónyuge de mayor
+  ingreso si hay que elegir. Comparar 2-3 ofertas por: capital asegurado,
+  prima a 5/10/20 años, exclusiones, periodo de carencia, cobertura de
+  invalidez. No se recomienda ninguna aseguradora concreta.
+- La prima (actual ≈11 €/mes, o algo más si se amplía, estimado 15-30 €/mes
+  adicionales) es un **gasto fijo del hogar**, no debe descontarse de los
+  1.300 €/mes de capacidad de ahorro/inversión.
+- No es asesoramiento de un mediador de seguros regulado; usar como guía para
+  comparar ofertas, no como recomendación de producto.
+
+## 8. Próximos pasos acordados
+
+- [ ] Empezar a construir el fondo de emergencia (12.600 €) ya mismo:
+      transferencia automática de 1.300 €/mes a una cuenta remunerada o fondo
+      monetario separado, 100 % líquido. Objetivo: completado hacia mayo 2027.
+- [ ] Confirmar el capital asegurado exacto de la póliza de vida actual
+      (33 €/trimestre) y comparar con el rango orientativo (sección 7); si
+      falta cobertura, contratar un seguro de vida temporal complementario.
 - [x] Decidir estrategia: Camino 2 (aportación creciente ~5 %/año) elegido
       como principal, con el Camino 1 (aportación constante) como plan B.
 - [ ] Definir la cartera de inversión concreta (fondos indexados/ETFs, reparto
@@ -126,3 +165,4 @@ a medida que se acerque el momento de vivir de las rentas.
 |---|---|---|---|
 | 2026-07-25 | Primer diagnóstico completo con datos reales del usuario | 0 € | Horizonte de 15 años no es realista con 1.300 €/mes; pendiente decidir plazo vs. aumento de ahorro |
 | 2026-07-25 | Comparados los 4 caminos; elegido Camino 2 (aportación creciente ~5 %/año) | 0 € | Objetivo revisado a ≈20 años (≈53 años de edad); Camino 1 queda como plan B |
+| 2026-07-25 | Plan de fondo de emergencia concretado; analizado seguro de vida existente con `seguros-riesgos` | 0 € | Ingresos desglosados (2.200 €/1.200 €); pendiente confirmar capital asegurado exacto de la póliza actual |

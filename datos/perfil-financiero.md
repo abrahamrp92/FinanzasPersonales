@@ -18,7 +18,8 @@ _Última actualización: 2026-07-25_
 
 | Fuente | Importe (€) |
 |---|---|
-| Ingresos conjuntos de la pareja | 3.400 |
+| Nómina cónyuge 1 | 2.200 |
+| Nómina cónyuge 2 | 1.200 |
 | **Total** | **3.400** |
 
 ## Gastos mensuales
@@ -30,6 +31,15 @@ _Última actualización: 2026-07-25_
 | **Total** | **2.100** |
 
 **Tasa de ahorro actual:** (3.400 − 2.100) / 3.400 = **≈38 %** (1.300 €/mes de capacidad de ahorro)
+
+## Seguros
+
+- Seguro de vida: sí, póliza privada existente que cubre a los 3 miembros de
+  la familia (ambos cónyuges + hija). Prima: 33 €/trimestre (132 €/año, ≈11
+  €/mes). **Pendiente confirmar el capital asegurado exacto por persona** —
+  con esa prima es probable que el capital sea bajo (ver
+  `datos/plan-libertad-financiera.md`, sección de seguros).
+- Sin seguro de vida ni otras coberturas a través de la empresa/convenio.
 
 ## Patrimonio actual
 
