@@ -5,6 +5,11 @@
 
 _Última actualización: 2026-07-25_
 
+**Estrategia elegida: Camino 2 — aportación creciente con el sueldo.**
+Objetivo revisado: 1.000.000 € en **≈20 años** (hacia los 53 años), en vez de
+los 15 años originales, a cambio de una velocidad mayor que manteniendo la
+aportación plana o que un enfoque Coast FIRE (ver sección 5).
+
 ## 1. Diagnóstico de partida
 
 - Pareja de 33 años, casados, hija de 5 meses. Viven de alquiler (700 €/mes).
@@ -14,8 +19,10 @@ _Última actualización: 2026-07-25_
 - Patrimonio actual: 0 € (sin ahorro, sin inversión, sin fondo de emergencia).
 - Deuda: 0 € (sin hipoteca, préstamos ni tarjetas).
 - Tolerancia al riesgo declarada: alta.
-- Objetivo: superar 1.000.000 € en 15 años (≈2041) y vivir de las rentas de la
-  cartera (no solo acumular sin usarlo).
+- Objetivo: superar 1.000.000 € y vivir de las rentas de la cartera (no solo
+  acumular sin usarlo). Aspiración inicial: 15 años. Tras comparar caminos
+  (sección 5), se adopta un horizonte revisado de **≈20 años (≈2046, hacia los
+  53 años)**, apoyado en que la aportación mensual crezca con el sueldo.
 
 ## 2. Prioridades inmediatas
 
@@ -29,35 +36,44 @@ _Última actualización: 2026-07-25_
 3. Sin deuda que amortizar ni vehículos fiscales evaluados aún: siguiente paso
    natural tras el fondo de emergencia es empezar a invertir.
 
-## 3. Proyección hacia 1.000.000 € (15 años)
+## 3. Proyección hacia 1.000.000 € — comparación de caminos
 
-Supuesto: primeros ≈10 meses el ahorro va al fondo de emergencia; el resto de
-los 15 años (≈14 años y 2 meses) se invierten 1.300 €/mes en una cartera
-diversificada de bajo coste (fondos indexados/ETFs globales).
+Supuesto común: primeros ≈10 meses el ahorro va al fondo de emergencia; a
+partir de ahí, aportación mensual a una cartera diversificada de bajo coste
+(fondos indexados/ETFs globales), rentabilidad nominal base del 7 %.
 
-| Rentabilidad nominal | Patrimonio a los 15 años |
+| Camino | Cómo funciona | Edad al llegar a 1M € | Años desde hoy |
+|---|---|---|---|
+| **2. Aportación creciente (~5 %/año) — ELEGIDO** | El ahorro mensual sube cada año al ritmo de la progresión salarial, sin parar nunca | **≈53 años** | **≈20 años** |
+| 1. Aportación constante (1.300 €/mes) | Igual que hoy, sin subir ni parar, hasta llegar al objetivo | ≈57-58 años | ≈24-25 años |
+| 3b. Coast FIRE + aportación reducida (700 €/mes tras el año 15) | Fase intensa 15 años, luego se reduce el ritmo sin parar del todo | ≈60 años | ≈27 años |
+| 3a. Coast FIRE puro (se para de aportar a los 15 años) | Fase intensa 15 años, luego cero aportaciones | ≈63 años | ≈30 años |
+
+Aportar de forma creciente siempre supera a dejar de aportar (Coast FIRE),
+incluso "puro", porque las aportaciones compuestas durante más años valen más
+que dejar crecer solo un capital menor. Con 1.300 €/mes constantes al 7 % se
+tardarían ≈24-25 años (no 15); para llegar en 15 años exactos al 7 % harían
+falta ≈3.155 €/mes, muy por encima del ingreso total actual del hogar.
+
+### Camino elegido en detalle: aportación creciendo ~5 %/año
+
+| Año | Aportación mensual aprox. |
 |---|---|
-| 5 % (conservador) | ≈320.600 € |
-| 7 % (base) | ≈376.200 € |
-| 9 % (optimista) | ≈444.000 € |
+| 1 | 1.300 € |
+| 5 | ≈1.580 € |
+| 10 | ≈2.020 € |
+| 15 | ≈2.574 € |
+| 20 | ≈3.285 € (aprox., si el ritmo se mantiene) |
 
-**Ningún escenario con aportación plana de 1.300 €/mes llega a 1.000.000 € en
-15 años.**
+Requiere disciplina concreta, no solo esperanza de que suban los ingresos:
+**cada vez que suba el sueldo (ascenso, cambio de trabajo, ingresos extra),
+destinar una parte relevante de la subida a inversión antes de que se
+convierta en gasto habitual** (evitar inflación de estilo de vida).
+Revisar anualmente si el 5 % se está cumpliendo (ver sección 6); si un año no
+se cumple, no pasa nada puntualmente, pero si se desvía de forma sostenida
+conviene recalcular el plan (posible vuelta al Camino 1 como red de seguridad).
 
-- Aportación necesaria para llegar a 1M € en 15 años al 7 %: **≈3.155 €/mes**
-  (superior al ingreso total actual del hogar; no es realista sin un aumento
-  de ingresos muy grande).
-- Con 1.300 €/mes constantes al 7 %, se alcanzaría 1M € en **≈24-25 años**
-  (hacia los 57-58 años de edad), no 15.
-- Si la aportación mensual crece un 3 %/año (progresión salarial típica, de
-  1.300 € a ≈1.966 €/mes en el año 15), el patrimonio a los 15 años sube a
-  **≈492.000 €** — mejora sustancial pero sigue sin alcanzar 1M €.
-- Escenario "Coast FIRE": con los ≈376.000 € acumulados a los 15 años, si a
-  partir de ahí se dejara de aportar, el interés compuesto (al 7 %) llevaría a
-  1M € hacia los **63 años de edad** (48 años después de empezar). Aportando
-  aunque sea una cantidad reducida a partir del año 15, ese plazo se acorta.
-
-**Asset allocation orientativa** (33 años, horizonte 15+ años, riesgo alto):
+**Asset allocation orientativa** (33 años, horizonte largo, riesgo alto):
 peso alto en renta variable global (orientativamente 80-90 %) vía fondos
 indexados/ETFs de bajo coste, reduciendo gradualmente hacia renta fija/liquidez
 a medida que se acerque el momento de vivir de las rentas.
@@ -79,29 +95,34 @@ a medida que se acerque el momento de vivir de las rentas.
   rentabilidades (mala racha de mercado justo al empezar a retirar),
   inflación acumulada, y longevidad (planificar para vivir más de lo esperado).
 
-## 5. Caminos posibles (decisión pendiente del usuario)
+## 5. Caminos comparados y decisión
 
-No son excluyentes entre sí:
-
-1. **Alargar el horizonte a ≈24-25 años** manteniendo 1.300 €/mes — sigue
-   siendo jubilación bastante anticipada frente a los 65-67 habituales.
-2. **Aumentar la tasa de ahorro con el tiempo** (ascensos, ingresos extra,
-   reducción de gastos de crianza a medida que la hija crece) para acercar el
-   plazo a los 15 años originales.
-3. **Aceptar ≈376.000-492.000 € a los 15 años como hito intermedio** (enfoque
-   Coast/Barista FIRE) y dejar que el interés compuesto y aportaciones
-   reducidas terminen el recorrido más adelante.
+1. **Aumentar el ahorro con el tiempo (~5 %/año) — ELEGIDO.** El camino más
+   rápido de los cuatro (≈53 años); requiere disciplina activa para que la
+   aportación realmente crezca con los ingresos.
+2. Alargar el horizonte a ≈24-25 años manteniendo 1.300 €/mes — **plan B /
+   red de seguridad** si el Camino 2 no se cumple en algún tramo.
+3. Coast/Barista FIRE (parar o reducir mucho el ahorro tras un hito
+   intermedio) — descartado como estrategia principal: es el camino más lento
+   de los cuatro para llegar a 1M €, aunque ofrece antes el punto de "ya no
+   dependo de seguir ahorrando para este objetivo". Queda como opción a
+   reconsiderar si en el futuro prima más la flexibilidad que la velocidad.
 
 ## 6. Próximos pasos acordados
 
 - [ ] Empezar a construir el fondo de emergencia (12.600 €) ya mismo.
 - [ ] Valorar seguro de vida temporal para ambos cónyuges.
-- [ ] Decidir cuál de los caminos del punto 5 (o combinación) se adopta.
-- [ ] Una vez decidido, definir la cartera de inversión concreta y automatizar
-      la aportación mensual.
+- [x] Decidir estrategia: Camino 2 (aportación creciente ~5 %/año) elegido
+      como principal, con el Camino 1 (aportación constante) como plan B.
+- [ ] Definir la cartera de inversión concreta (fondos indexados/ETFs, reparto
+      80-90 % renta variable) y automatizar la aportación mensual inicial de
+      1.300 €/mes (una vez cubierto el fondo de emergencia).
+- [ ] Revisión anual: comprobar si la aportación mensual ha subido ≈5 %
+      respecto al año anterior; si no, entender por qué y ajustar el plan.
 
 ## Historial de revisiones
 
 | Fecha | Cambios | Patrimonio neto | Notas |
 |---|---|---|---|
 | 2026-07-25 | Primer diagnóstico completo con datos reales del usuario | 0 € | Horizonte de 15 años no es realista con 1.300 €/mes; pendiente decidir plazo vs. aumento de ahorro |
+| 2026-07-25 | Comparados los 4 caminos; elegido Camino 2 (aportación creciente ~5 %/año) | 0 € | Objetivo revisado a ≈20 años (≈53 años de edad); Camino 1 queda como plan B |
