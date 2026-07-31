@@ -22,6 +22,9 @@ _Última actualización: 2026-07-25_
 | Nómina cónyuge 2 | 1.200 |
 | **Total** | **3.400** |
 
+Día de cobro de nómina: día 5 de cada mes (usado para fijar el día de la
+aportación automática en `datos/plan-inversion-mensual.pdf`).
+
 ## Gastos mensuales
 
 | Categoría | Importe (€) |
